@@ -131,3 +131,6 @@ inimesteAndmed.forEach(inimene => {
 
 
 
+
+
+
