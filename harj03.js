@@ -128,8 +128,6 @@ inimesteAndmed.forEach(inimene => {
 
 
 
-dxfg
-
 
 
 
